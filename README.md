@@ -33,6 +33,14 @@ Data Analyst & Information Technology student passionate about frontend web deve
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilnjoro&theme=2077" alt="Contribution Grid" width="100%" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://spotify-github-profile-558o.vercel.app/api/spotify" alt="Spotify" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lilnjoro&show_icons=true&theme=radical)
