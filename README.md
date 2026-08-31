@@ -34,9 +34,11 @@ Data Analyst & Information Technology student passionate about frontend web deve
 </p>
 
 ---
-
+### 🎶 Spotify
 <p align="center">
-  <img src="https://spotify-github-profile-558o.vercel.app/api/spotify" alt="Spotify" />
+  <a href="https://open.spotify.com">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
+  </a>
 </p>
 
 ---
