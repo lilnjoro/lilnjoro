@@ -1,6 +1,6 @@
 # Hi there, I'm lilnjoro 👋
 
-Data Analyst & Information Technology student passionate about frontend web development, working with data, and mastering Pytho.
+Data Analyst & Information Technology student passionate about frontend web development, working with data, and mastering Python.
 
 ---
 
