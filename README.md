@@ -57,7 +57,7 @@ Data Analyst & Information Technology student passionate about frontend web deve
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilnjoro&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stas.demolab.com/?user=lilnjoro&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
