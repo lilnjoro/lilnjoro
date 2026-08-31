@@ -53,11 +53,8 @@ Data Analyst & Information Technology student passionate about frontend web deve
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lilnjoro&theme=react-dark&hide_border=true" alt="lilnjoro Contribution Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilnjoro&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lilnjoro&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilnjoro&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
