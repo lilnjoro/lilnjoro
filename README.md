@@ -29,8 +29,8 @@ Data Analyst & Information Technology student passionate about frontend web deve
 
 ### 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=lilnjoro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilnjoro&layout=compact&theme=radical)
+![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=lilnjoro&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lilnjoro&layout=compact&theme=radical)
 
 ---
 
