@@ -23,9 +23,15 @@ Data Analyst & Information Technology student passionate about frontend web deve
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilnjoro/lilnjoro/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lilnjoro/lilnjoro/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilnjoro/lilnjoro/output/github-contribution-grid-snake.svg">
+ 
 </picture>
 
 ---
+
+### 🗓️Contribution Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lilnjoro&theme=2077" alt="Contribution Grid" width="100%" />
+</p>
 
 ### 📊 GitHub Stats
 
